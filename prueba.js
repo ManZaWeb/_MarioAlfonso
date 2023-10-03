@@ -1,4 +1,4 @@
-//Mario Alfonso Nuñez
+//Mario Alfonso Nuñez https://github.com/ManZaWeb/_MarioAlfonso.git
 while(true){
 let num = prompt("Dame un n")
 num=parseFloat(num)
